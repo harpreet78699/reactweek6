@@ -4,7 +4,7 @@ import React from 'react';
 function Header({ postCount }) {
   return (
     <header>
-      <h1>React Blog</h1>
+      <h1>Transportation Blog</h1>
       <p>Total Posts: {postCount}</p>
     </header>
   );
